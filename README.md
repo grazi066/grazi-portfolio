@@ -30,8 +30,7 @@ src/
 - **Home**: Nome, foto de perfil, descrição e redes sociais.
 - **Services**: Cards de serviços + tecnologias conectadas em formato circular.
 - **Projects**: Lista de projetos com stacks, imagens e descrições.
-- **Experience**: Trajetória profissional.
-- **Education**: Formação acadêmica e certificados.
+- **Education**: Formação acadêmica 
 
 ## 🚀 Como rodar localmente
 
@@ -60,7 +59,4 @@ Se quiser conversar sobre desenvolvimento, design ou oportunidades, fique à von
 ## ⚠️ Status do Projeto
 
 Este projeto é uma base adaptada a partir de um template de portfólio open-source, atualmente em construção 🚧.
-
-Ainda faltam: substituir os projetos de exemplo pelos meus, adicionar minha foto de perfil e revisar as seções de Experiência e Formação com meus dados reais.
-
 Novas atualizações em breve! 💻✨
